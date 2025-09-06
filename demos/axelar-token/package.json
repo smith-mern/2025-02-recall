@@ -30,7 +30,7 @@
     "LICENSE-*"
   ],
   "dependencies": {
-    "@axelar-network/axelar-gmp-sdk-solidity": "v5.6.4",
+    "@axelar-network/axelar-gmp-sdk-solidity": "5.10.0",
     "@axelar-network/interchain-token-service": "v1.2.1",
     "@consensus-shipyard/ipc-contracts": "workspace:^",
     "@openzeppelin/contracts": "5.0.2",
