@@ -64,7 +64,7 @@
         "diamond-util": "^1.1.1",
         "elliptic-curve-solidity": "github:witnet/elliptic-curve-solidity#3475478",
         "fevmate": "github:wadealexc/fevmate#6a80e98",
-        "lodash": "^4.17.21"
+        "lodash": "^4.17.23"
     },
     "lint-staged": {
         "*.{js,jsx,ts,tsx,json,css,md,sol}": "prettier --write"
